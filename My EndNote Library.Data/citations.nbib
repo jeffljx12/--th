@@ -1,0 +1,1139 @@
+
+PMID- 27227716
+OWN - NLM
+STAT- In-Process
+DA  - 20160527
+LR  - 20160527
+IS  - 1557-4679 (Electronic)
+IS  - 1557-4679 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2016 May 01
+TI  - Evaluations of the Optimal Discovery Procedure for Multiple Testing.
+PG  - 21-9
+LID - 10.1515/ijb-2015-0027 [doi]
+LID - /j/ijb.2016.12.issue-1/ijb-2015-0027/ijb-2015-0027.xml [pii]
+AB  - The Optimal Discovery Procedure (ODP) is a method for simultaneous hypothesis
+      testing that attempts to gain power relative to more standard techniques by
+      exploiting multivariate structure [1]. Specializing to the example of testing
+      whether components of a Gaussian mean vector are zero, we compare the power of
+      the ODP to a Bonferroni-style method and to the Benjamini-Hochberg method when
+      the testing procedures aim to respectively control certain Type I error rate
+      measures, such as the expected number of false positives or the false discovery
+      rate. We show through theoretical results, numerical comparisons, and two
+      microarray examples that when the rejection regions for the ODP test statistics
+      are chosen such that the procedure is guaranteed to uniformly control a Type I
+      error rate measure, the technique is generally less powerful than competing
+      methods. We contrast and explain these results in light of previously proven
+      optimality theory for the ODP. We also compare the ordering given by the ODP test
+      statistics to the standard rankings based on sorting univariate p-values from
+      smallest to largest. In the cases we considered the standard ordering was
+      superior, and ODP rankings were adversely impacted by correlation.
+FAU - Rubin, Daniel B
+AU  - Rubin DB
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Int J Biostat
+JT  - The international journal of biostatistics
+JID - 101313850
+SB  - IM
+EDAT- 2016/05/27 06:00
+MHDA- 2016/05/27 06:00
+CRDT- 2016/05/27 06:00
+AID - 10.1515/ijb-2015-0027 [doi]
+AID - /j/ijb.2016.12.issue-1/ijb-2015-0027/ijb-2015-0027.xml [pii]
+PST - ppublish
+SO  - Int J Biostat. 2016 May 1;12(1):21-9. doi: 10.1515/ijb-2015-0027.
+
+PMID- 24350232
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DA  - 20131218
+DCOM- 20131218
+LR  - 20170220
+IS  - 2296-2565 (Print)
+IS  - 2296-2565 (Linking)
+VI  - 1
+DP  - 2013
+TI  - Multiple hypotheses testing procedures in clinical trials and genomic studies.
+PG  - 63
+LID - 10.3389/fpubh.2013.00063 [doi]
+AB  - We review and compare multiple hypothesis testing procedures used in clinical
+      trials and those in genomic studies. Clinical trials often employ global tests,
+      which draw an overall conclusion for all the hypotheses, such as SUM test,
+      Two-Step test, Approximate Likelihood Ratio test (ALRT), Intersection-Union Test 
+      (IUT), and MAX test. The SUM and Two-Step tests are most powerful under
+      homogeneous treatment effects, while the ALRT and MAX test are robust in cases
+      with non-homogeneous treatment effects. Furthermore, the ALRT is robust to
+      unequal sample sizes in testing different hypotheses. In genomic studies,
+      stepwise procedures are used to draw marker-specific conclusions and control
+      family wise error rate (FWER) or false discovery rate (FDR). FDR refers to the
+      percent of false positives among all significant results and is preferred over
+      FWER in screening high-dimensional genomic markers due to its interpretability.
+      In cases where correlations between test statistics cannot be ignored,
+      Westfall-Young resampling method generates the joint distribution of P-values
+      under the null and maintains their correlation structure. Finally, the GWAS data 
+      from a clinical trial searching for SNPs associated with nephropathy among Type 1
+      diabetic patients are used to illustrate various procedures.
+FAU - Pan, Qing
+AU  - Pan Q
+AD  - Department of Statistics, The George Washington University , Washington, DC ,
+      USA.
+LA  - eng
+GR  - KL2 TR000076/TR/NCATS NIH HHS/United States
+GR  - UL1 TR000075/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+DEP - 20131209
+PL  - Switzerland
+TA  - Front Public Health
+JT  - Frontiers in public health
+JID - 101616579
+PMC - PMC3859974
+OID - NLM: PMC3859974
+OTO - NOTNLM
+OT  - false discovery rate
+OT  - family wise error rate
+OT  - global test
+OT  - multiple hypotheses testing
+OT  - resampling method
+OT  - stepwise procedure
+EDAT- 2013/12/19 06:00
+MHDA- 2013/12/19 06:01
+CRDT- 2013/12/19 06:00
+PHST- 2013/11/08 [received]
+PHST- 2013/11/15 [accepted]
+AID - 10.3389/fpubh.2013.00063 [doi]
+PST - epublish
+SO  - Front Public Health. 2013 Dec 9;1:63. doi: 10.3389/fpubh.2013.00063. eCollection 
+      2013.
+
+PMID- 22559038
+OWN - NLM
+STAT- MEDLINE
+DA  - 20121115
+DCOM- 20130501
+LR  - 20150225
+IS  - 1471-2105 (Electronic)
+IS  - 1471-2105 (Linking)
+VI  - 13
+DP  - 2012 May 06
+TI  - False discovery rate control in two-stage designs.
+PG  - 81
+LID - 10.1186/1471-2105-13-81 [doi]
+AB  - BACKGROUND: For gene expression or gene association studies with a large number
+      of hypotheses the number of measurements per marker in a conventional
+      single-stage design is often low due to limited resources. Two-stage designs have
+      been proposed where in a first stage promising hypotheses are identified and
+      further investigated in the second stage with larger sample sizes. For two types 
+      of two-stage designs proposed in the literature we derive multiple testing
+      procedures controlling the False Discovery Rate (FDR) demonstrating FDR control
+      by simulations: designs where a fixed number of top-ranked hypotheses are
+      selected and designs where the selection in the interim analysis is based on an
+      FDR threshold. In contrast to earlier approaches which use only the second-stage 
+      data in the hypothesis tests (pilot approach), the proposed testing procedures
+      are based on the pooled data from both stages (integrated approach). RESULTS: For
+      both selection rules the multiple testing procedures control the FDR in the
+      considered simulation scenarios. This holds for the case of independent
+      observations across hypotheses as well as for certain correlation structures.
+      Additionally, we show that in scenarios with small effect sizes the testing
+      procedures based on the pooled data from both stages can give a considerable
+      improvement in power compared to tests based on the second-stage data only.
+      CONCLUSION: The proposed hypothesis tests provide a tool for FDR control for the 
+      considered two-stage designs. Comparing the integrated approaches for both
+      selection rules with the corresponding pilot approaches showed an advantage of
+      the integrated approach in many simulation scenarios.
+FAU - Zehetmayer, Sonja
+AU  - Zehetmayer S
+AD  - Center for Medical Statistics, Informatics, and Complex Systems, Medical
+      University of Vienna, Austria. sonja.zehetmayer@meduniwien.ac.at
+FAU - Posch, Martin
+AU  - Posch M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120506
+PL  - England
+TA  - BMC Bioinformatics
+JT  - BMC bioinformatics
+JID - 100965194
+SB  - IM
+MH  - *Data Interpretation, Statistical
+MH  - False Positive Reactions
+MH  - Research Design/*statistics & numerical data
+MH  - Sample Size
+PMC - PMC3496575
+OID - NLM: PMC3496575
+EDAT- 2012/05/09 06:00
+MHDA- 2013/05/02 06:00
+CRDT- 2012/05/08 06:00
+PHST- 2011/09/30 [received]
+PHST- 2012/04/23 [accepted]
+AID - 1471-2105-13-81 [pii]
+AID - 10.1186/1471-2105-13-81 [doi]
+PST - epublish
+SO  - BMC Bioinformatics. 2012 May 6;13:81. doi: 10.1186/1471-2105-13-81.
+
+PMID- 23320794
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130116
+DCOM- 20130513
+LR  - 20161019
+IS  - 1471-2105 (Electronic)
+IS  - 1471-2105 (Linking)
+VI  - 13 Suppl 13
+DP  - 2012
+TI  - Sources of variation in false discovery rate estimation include sample size,
+      correlation, and inherent differences between groups.
+PG  - S1
+LID - 10.1186/1471-2105-13-S13-S1 [doi]
+AB  - BACKGROUND: High-throughtput technologies enable the testing of tens of thousands
+      of measurements simultaneously. Identification of genes that are differentially
+      expressed or associated with clinical outcomes invokes the multiple testing
+      problem. False Discovery Rate (FDR) control is a statistical method used to
+      correct for multiple comparisons for independent or weakly dependent test
+      statistics. Although FDR control is frequently applied to microarray data
+      analysis, gene expression is usually correlated, which might lead to inaccurate
+      estimates. In this paper, we evaluate the accuracy of FDR estimation. METHODS:
+      Using two real data sets, we resampled subgroups of patients and recalculated
+      statistics of interest to illustrate the imprecision of FDR estimation. Next, we 
+      generated many simulated data sets with block correlation structures and
+      realistic noise parameters, using the Ultimate Microarray Prediction, Inference, 
+      and Reality Engine (UMPIRE) R package. We estimated FDR using a beta-uniform
+      mixture (BUM) model, and examined the variation in FDR estimation. RESULTS: The
+      three major sources of variation in FDR estimation are the sample size,
+      correlations among genes, and the true proportion of differentially expressed
+      genes (DEGs). The sample size and proportion of DEGs affect both magnitude and
+      precision of FDR estimation, while the correlation structure mainly affects the
+      variation of the estimated parameters. CONCLUSIONS: We have decomposed various
+      factors that affect FDR estimation, and illustrated the direction and extent of
+      the impact. We found that the proportion of DEGs has a significant impact on FDR;
+      this factor might have been overlooked in previous studies and deserves more
+      thought when controlling FDR.
+FAU - Zhang, Jiexin
+AU  - Zhang J
+AD  - Department of Bioinformatics and Computational Biology, The University of Texas
+      MD Anderson Cancer Center, Houston, Texas 77030, USA.
+FAU - Coombes, Kevin R
+AU  - Coombes KR
+LA  - eng
+GR  - P30 CA016672/CA/NCI NIH HHS/United States
+GR  - P50 CA140388/CA/NCI NIH HHS/United States
+GR  - R01 CA123252/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20120824
+PL  - England
+TA  - BMC Bioinformatics
+JT  - BMC bioinformatics
+JID - 100965194
+SB  - IM
+MH  - Algorithms
+MH  - Biometry/*methods
+MH  - Computer Simulation
+MH  - Gene Expression Profiling/*statistics & numerical data
+MH  - Humans
+MH  - Lymphoma, Follicular/genetics/mortality
+MH  - Male
+MH  - Oligonucleotide Array Sequence Analysis/*statistics & numerical data
+MH  - Prostatic Neoplasms/genetics/mortality
+MH  - Regression Analysis
+MH  - Sample Size
+MH  - Software
+PMC - PMC3426804
+OID - NLM: PMC3426804
+EDAT- 2013/01/18 06:00
+MHDA- 2013/05/15 06:00
+CRDT- 2013/01/17 06:00
+AID - 1471-2105-13-S13-S1 [pii]
+AID - 10.1186/1471-2105-13-S13-S1 [doi]
+PST - ppublish
+SO  - BMC Bioinformatics. 2012;13 Suppl 13:S1. doi: 10.1186/1471-2105-13-S13-S1. Epub
+      2012 Aug 24.
+
+PMID- 24729644
+OWN - NLM
+STAT- Publisher
+DA  - 20140414
+LR  - 20170220
+IS  - 0162-1459 (Print)
+IS  - 0162-1459 (Linking)
+VI  - 107
+IP  - 499
+DP  - 2012
+TI  - Estimating False Discovery Proportion Under Arbitrary Covariance Dependence.
+PG  - 1019-1035
+AB  - Multiple hypothesis testing is a fundamental problem in high dimensional
+      inference, with wide applications in many scientific fields. In genome-wide
+      association studies, tens of thousands of tests are performed simultaneously to
+      find if any SNPs are associated with some traits and those tests are correlated. 
+      When test statistics are correlated, false discovery control becomes very
+      challenging under arbitrary dependence. In the current paper, we propose a novel 
+      method based on principal factor approximation, which successfully subtracts the 
+      common dependence and weakens significantly the correlation structure, to deal
+      with an arbitrary dependence structure. We derive an approximate expression for
+      false discovery proportion (FDP) in large scale multiple testing when a common
+      threshold is used and provide a consistent estimate of realized FDP. This result 
+      has important applications in controlling FDR and FDP. Our estimate of realized
+      FDP compares favorably with Efron (2007)'s approach, as demonstrated in the
+      simulated examples. Our approach is further illustrated by some real data
+      applications. We also propose a dependence-adjusted procedure, which is more
+      powerful than the fixed threshold procedure.
+FAU - Fan, Jianqing
+AU  - Fan J
+AD  - Department of Operations Research & Financial Engineering, Princeton University, 
+      Princeton, NJ 08544, USA and honorary professor, School of Statistics and
+      Management, Shanghai University of Finance and Economics, Shanghai, China.
+FAU - Han, Xu
+AU  - Han X
+AD  - Department of Statistics, University of Florida, Florida, FL 32606.
+FAU - Gu, Weijie
+AU  - Gu W
+AD  - Department of Operations Research & Financial Engineering, Princeton University, 
+      Princeton, NJ 08544.
+LA  - eng
+GR  - R01 GM072611/GM/NIGMS NIH HHS/United States
+GR  - R01 GM072611-08/GM/NIGMS NIH HHS/United States
+GR  - R01 GM100474/GM/NIGMS NIH HHS/United States
+GR  - R01 GM100474-01/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - J Am Stat Assoc
+JT  - Journal of the American Statistical Association
+JID - 01510020R
+PMC - PMC3983872
+MID - NIHMS367754
+OTO - NOTNLM
+OT  - Multiple hypothesis testing
+OT  - arbitrary dependence structure
+OT  - false discovery rate
+OT  - genome-wide association studies
+OT  - high dimensional inference
+EDAT- 2012/01/01 00:00
+MHDA- 2012/01/01 00:00
+CRDT- 2014/04/15 06:00
+AID - 10.1080/01621459.2012.720478 [doi]
+PST - ppublish
+SO  - J Am Stat Assoc. 2012;107(499):1019-1035.
+
+PMID- 23089816
+OWN - NLM
+STAT- MEDLINE
+DA  - 20121023
+DCOM- 20130402
+LR  - 20161122
+IS  - 1544-6115 (Electronic)
+IS  - 1544-6115 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2011 Nov 28
+TI  - False discovery rate estimation for stability selection: application to
+      genome-wide association studies.
+LID - 10.2202/1544-6115.1663 [doi]
+LID - /j/sagmb.2011.10.issue-1/1544-6115.1663/1544-6115.1663.xml [pii]
+AB  - Stability Selection, which combines penalized regression with subsampling, is a
+      promising algorithm to perform variable selection in ultra high dimension. This
+      work is motivated by its evaluation in the context of genome-wide association
+      studies (GWAS). One critical aspect for its use lies in the choice of a decision 
+      rule that accounts for the massive number of comparisons realised. The current
+      decision rule relies on the control of the Family Wise Error Rate (FWER) by means
+      of an upper bound derived theoretically. Alternatively, we propose to set the
+      detection threshold according to the more liberal false discovery rate (FDR)
+      criterion. The procedure we propose for its estimation relies on permutations.
+      This procedure is evaluated by simulations according to several scenarios
+      mimicking various correlation structures of genetic data and is compared to the
+      original FWER upper bound. The proposed procedure is shown to be less
+      conservative, and able to pick up more true signals than the FWER upper bound.
+      Finally, the proposed methodology is illustrated on a GWAS analysis of a lipid
+      phenotype (high-density lipoproteins, HDL) in the Northern Finland Birth Cohort.
+FAU - Ahmed, Ismail
+AU  - Ahmed I
+AD  - Inserm.
+FAU - Hartikainen, Anna-Liisa
+AU  - Hartikainen AL
+FAU - Jarvelin, Marjo-Riitta
+AU  - Jarvelin MR
+FAU - Richardson, Sylvia
+AU  - Richardson S
+LA  - eng
+GR  - 1RL1MH083268-0/MH/NIMH NIH HHS/United States
+GR  - G0500539/Medical Research Council/United Kingdom
+GR  - 5R01MH63706:0/MH/NIMH NIH HHS/United States
+GR  - G0600705/Department of Health/United Kingdom
+GR  - G0600609/Medical Research Council/United Kingdom
+GR  - 5R01HL087679-02/HL/NHLBI NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20111128
+PL  - Germany
+TA  - Stat Appl Genet Mol Biol
+JT  - Statistical applications in genetics and molecular biology
+JID - 101176023
+RN  - 0 (Lipoproteins, HDL)
+SB  - IM
+MH  - Chromosomes, Human, Pair 21/genetics
+MH  - Computational Biology/*methods
+MH  - Computer Simulation
+MH  - False Positive Reactions
+MH  - Finland
+MH  - *Genome, Human
+MH  - Genome-Wide Association Study/*methods
+MH  - Humans
+MH  - Lipoproteins, HDL/analysis/genetics
+MH  - Polymorphism, Single Nucleotide
+MH  - Regression Analysis
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+EDAT- 2011/01/01 00:00
+MHDA- 2013/04/03 06:00
+CRDT- 2012/10/24 06:00
+AID - 10.2202/1544-6115.1663 [doi]
+AID - /j/sagmb.2011.10.issue-1/1544-6115.1663/1544-6115.1663.xml [pii]
+PST - epublish
+SO  - Stat Appl Genet Mol Biol. 2011 Nov 28;10(1). pii:
+      /j/sagmb.2011.10.issue-1/1544-6115.1663/1544-6115.1663.xml. doi:
+      10.2202/1544-6115.1663.
+
+PMID- 23049127
+OWN - NLM
+STAT- Publisher
+DA  - 20121010
+LR  - 20170220
+IS  - 0006-3444 (Print)
+IS  - 0006-3444 (Linking)
+VI  - 98
+IP  - 1
+DP  - 2011 Mar
+TI  - The effect of correlation in false discovery rate estimation.
+PG  - 199-214
+AB  - The objective of this paper is to quantify the effect of correlation in false
+      discovery rate analysis. Specifically, we derive approximations for the mean,
+      variance, distribution and quantiles of the standard false discovery rate
+      estimator for arbitrarily correlated data. This is achieved using a negative
+      binomial model for the number of false discoveries, where the parameters are
+      found empirically from the data. We show that correlation may increase the bias
+      and variance of the estimator substantially with respect to the independent case,
+      and that in some cases, such as an exchangeable correlation structure, the
+      estimator fails to be consistent as the number of tests becomes large.
+FAU - Schwartzman, Armin
+AU  - Schwartzman A
+AD  - Department of Biostatistics, Harvard School of Public Health, Boston,
+      Massachusetts 02115, U.S.A. , armins@hsph.harvard.edu , xlin@hsph.harvard.edu.
+FAU - Lin, Xihong
+AU  - Lin X
+LA  - eng
+GR  - P01 CA134294/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PL  - England
+TA  - Biometrika
+JT  - Biometrika
+JID - 0413661
+PMC - PMC3412603
+EDAT- 2011/03/01 00:00
+MHDA- 2011/03/01 00:00
+CRDT- 2012/10/11 06:00
+AID - 10.1093/biomet/asq075 [doi]
+AID - asq075 [pii]
+PST - ppublish
+SO  - Biometrika. 2011 Mar;98(1):199-214.
+
+PMID- 19825981
+OWN - NLM
+STAT- MEDLINE
+DA  - 20091216
+DCOM- 20100212
+LR  - 20161019
+IS  - 1362-4962 (Electronic)
+IS  - 0305-1048 (Linking)
+VI  - 37
+IP  - 22
+DP  - 2009 Dec
+TI  - Local false discovery rate facilitates comparison of different microarray
+      experiments.
+PG  - 7483-97
+LID - 10.1093/nar/gkp813 [doi]
+AB  - The local false discovery rate (LFDR) estimates the probability of falsely
+      identifying specific genes with changes in expression. In computer simulations,
+      LFDR <10% successfully identified genes with changes in expression, while LFDR
+      >90% identified genes without changes. We used LFDR to compare different
+      microarray experiments quantitatively: (i) Venn diagrams of genes with and
+      without changes in expression, (ii) scatter plots of the genes, (iii) correlation
+      coefficients in the scatter plots and (iv) distributions of gene function. To
+      illustrate, we compared three methods for pre-processing microarray data.
+      Correlations between methods were high (r = 0.84-0.92). However, responses were
+      often different in magnitude, and sometimes discordant, even though the methods
+      used the same raw data. LFDR complements functional assessments like gene set
+      enrichment analysis. To illustrate, we compared responses to ultraviolet
+      radiation (UV), ionizing radiation (IR) and tobacco smoke. Compared to
+      unresponsive genes, genes responsive to both UV and IR were enriched for cell
+      cycle, mitosis, and DNA repair functions. Genes responsive to UV but not IR were 
+      depleted for cell adhesion functions. Genes responsive to tobacco smoke were
+      enriched for detoxification functions. Thus, LFDR reveals differences and
+      similarities among experiments.
+FAU - Hong, Wan-Jen
+AU  - Hong WJ
+AD  - Department of Medicine, Department of Biochemistry, Department of Statistics and 
+      Health Research and Policy, Stanford University Medical Center, Stanford, CA
+      94305, USA.
+FAU - Tibshirani, Robert
+AU  - Tibshirani R
+FAU - Chu, Gilbert
+AU  - Chu G
+LA  - eng
+GR  - 5RCA-111487/PHS HHS/United States
+GR  - N01-HV-28183/HV/NHLBI NIH HHS/United States
+PT  - Comparative Study
+PT  - Evaluation Studies
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - England
+TA  - Nucleic Acids Res
+JT  - Nucleic acids research
+JID - 0411011
+SB  - IM
+MH  - Cell Line
+MH  - Computer Simulation
+MH  - Gene Expression/radiation effects
+MH  - Gene Expression Profiling/*methods
+MH  - Humans
+MH  - Oligonucleotide Array Sequence Analysis/*methods
+MH  - Radiation, Ionizing
+MH  - Smoking
+MH  - Ultraviolet Rays
+PMC - PMC2794175
+OID - NLM: PMC2794175
+EDAT- 2009/10/15 06:00
+MHDA- 2010/02/13 06:00
+CRDT- 2009/10/15 06:00
+AID - gkp813 [pii]
+AID - 10.1093/nar/gkp813 [doi]
+PST - ppublish
+SO  - Nucleic Acids Res. 2009 Dec;37(22):7483-97. doi: 10.1093/nar/gkp813.
+
+PMID- 19628638
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090914
+DCOM- 20091201
+LR  - 20090914
+IS  - 1468-4357 (Electronic)
+IS  - 1465-4644 (Linking)
+VI  - 10
+IP  - 4
+DP  - 2009 Oct
+TI  - Sample size calculations for controlling the distribution of false discovery
+      proportion in microarray experiments.
+PG  - 694-705
+LID - 10.1093/biostatistics/kxp024 [doi]
+AB  - The false discovery proportion (FDP), the proportion of false rejections among
+      all rejections, provides useful criteria for controlling false positives in
+      multiple testing to detect differential genes in microarray experiments. Owing to
+      a substantial variability in FDP for correlated genes, some authors considered
+      controlling actual FDP, instead of its expectation, that is false discovery rate,
+      in multiple testing. However, there has been no attempt to do this in the design 
+      of microarray experiments. In this article, we develop a procedure for sample
+      size calculation to control the distributions of FDP and true positives
+      simultaneously under blockwise correlation structures among genes. The sizes of
+      gene blocks, correlation coefficients, and effect sizes within gene blocks can
+      vary across gene blocks. Gene clustering is proposed to identify gene blocks
+      using historical data sets. The adequacy of the procedure is demonstrated using
+      simulated data sets. An application to a clinical study for lymphoma is also
+      provided.
+FAU - Oura, Tomonori
+AU  - Oura T
+AD  - Department of Biostatistics, Kyoto University School of Public Health,
+      Yoshidakonoe-cho, Sakyo-ku, Kyoto 606-8501, Japan. toura-kyt@umin.ac.jp
+FAU - Matsui, Shigeyuki
+AU  - Matsui S
+FAU - Kawakami, Koji
+AU  - Kawakami K
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20090723
+PL  - England
+TA  - Biostatistics
+JT  - Biostatistics (Oxford, England)
+JID - 100897327
+SB  - IM
+MH  - Biostatistics/methods
+MH  - Databases, Nucleic Acid
+MH  - Genome-Wide Association Study/statistics & numerical data
+MH  - Humans
+MH  - Lymphoma, Large B-Cell, Diffuse/genetics/mortality
+MH  - Oligonucleotide Array Sequence Analysis/*statistics & numerical data
+MH  - Predictive Value of Tests
+MH  - *Sample Size
+MH  - Sensitivity and Specificity
+MH  - Survival Analysis
+EDAT- 2009/07/25 09:00
+MHDA- 2009/12/16 06:00
+CRDT- 2009/07/25 09:00
+AID - kxp024 [pii]
+AID - 10.1093/biostatistics/kxp024 [doi]
+PST - ppublish
+SO  - Biostatistics. 2009 Oct;10(4):694-705. doi: 10.1093/biostatistics/kxp024. Epub
+      2009 Jul 23.
+
+PMID- 18298808
+OWN - NLM
+STAT- MEDLINE
+DA  - 20080408
+DCOM- 20080428
+LR  - 20170220
+IS  - 1471-2105 (Electronic)
+IS  - 1471-2105 (Linking)
+VI  - 9
+DP  - 2008 Feb 25
+TI  - Effects of dependence in high-dimensional multiple testing problems.
+PG  - 114
+LID - 10.1186/1471-2105-9-114 [doi]
+AB  - BACKGROUND: We consider effects of dependence among variables of high-dimensional
+      data in multiple hypothesis testing problems, in particular the False Discovery
+      Rate (FDR) control procedures. Recent simulation studies consider only simple
+      correlation structures among variables, which is hardly inspired by real data
+      features. Our aim is to systematically study effects of several network features 
+      like sparsity and correlation strength by imposing dependence structures among
+      variables using random correlation matrices. RESULTS: We study the robustness
+      against dependence of several FDR procedures that are popular in microarray
+      studies, such as Benjamin-Hochberg FDR, Storey's q-value, SAM and resampling
+      based FDR procedures. False Non-discovery Rates and estimates of the number of
+      null hypotheses are computed from those methods and compared. Our simulation
+      study shows that methods such as SAM and the q-value do not adequately control
+      the FDR to the level claimed under dependence conditions. On the other hand, the 
+      adaptive Benjamini-Hochberg procedure seems to be most robust while remaining
+      conservative. Finally, the estimates of the number of true null hypotheses under 
+      various dependence conditions are variable. CONCLUSION: We discuss a new method
+      for efficient guided simulation of dependent data, which satisfy imposed network 
+      constraints as conditional independence structures. Our simulation set-up allows 
+      for a structural study of the effect of dependencies on multiple testing
+      criterions and is useful for testing a potentially new method on pi0 or FDR
+      estimation in a dependency context.
+FAU - Kim, Kyung In
+AU  - Kim KI
+AD  - Department of Mathematics and Computer Science, Eindhoven University of
+      Technology, Eindhoven, The Netherlands. k.i.kim@tue.nl
+FAU - van de Wiel, Mark A
+AU  - van de Wiel MA
+LA  - eng
+PT  - Comparative Study
+PT  - Evaluation Studies
+PT  - Journal Article
+DEP - 20080225
+PL  - England
+TA  - BMC Bioinformatics
+JT  - BMC bioinformatics
+JID - 100965194
+SB  - IM
+MH  - *Algorithms
+MH  - *Artifacts
+MH  - Gene Expression Profiling/*methods
+MH  - Oligonucleotide Array Sequence Analysis/*methods
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+MH  - Statistics as Topic
+PMC - PMC2375137
+OID - NLM: PMC2375137
+EDAT- 2008/02/27 09:00
+MHDA- 2008/04/29 09:00
+CRDT- 2008/02/27 09:00
+PHST- 2007/08/13 [received]
+PHST- 2008/02/25 [accepted]
+AID - 1471-2105-9-114 [pii]
+AID - 10.1186/1471-2105-9-114 [doi]
+PST - epublish
+SO  - BMC Bioinformatics. 2008 Feb 25;9:114. doi: 10.1186/1471-2105-9-114.
+
+PMID- 18315862
+OWN - NLM
+STAT- MEDLINE
+DA  - 20080304
+DCOM- 20080411
+LR  - 20170220
+IS  - 1471-2105 (Electronic)
+IS  - 1471-2105 (Linking)
+VI  - 9 Suppl 1
+DP  - 2008
+TI  - Multivariate hierarchical Bayesian model for differential gene expression
+      analysis in microarray experiments.
+PG  - S9
+LID - 10.1186/1471-2105-9-S1-S9 [doi]
+AB  - BACKGROUND: Identification of differentially expressed genes is a typical
+      objective when analyzing gene expression data. Recently, Bayesian hierarchical
+      models have become increasingly popular to solve this type of problems. These
+      models show good performance in accommodating noise, variability and low
+      replication of microarray data. However, the correlation between different
+      fluorescent signals measured from a gene spot is ignored, which can diversely
+      affect the data analysis step. In fact, the intensities of the two signals are
+      significantly correlated across samples. The larger the log-transformed
+      intensities are, the smaller the correlation is. RESULTS: Motivated by the
+      complicated error relations in microarray data, we propose a multivariate
+      hierarchical Bayesian framework for data analysis in the replicated microarray
+      experiments. Gene expression data are modelled by a multivariate normal
+      distribution, parameterized by the corresponding mean vectors and covariance
+      matrixes with a conjugate prior distribution. Within the Bayesian framework, a
+      generalized likelihood ratio test (GLRT) is also developed to infer the gene
+      expression patterns. Simulation studies show that the proposed approach presents 
+      better operating characteristics and lower false discovery rate (FDR) than
+      existing methods, especially when the correlation coefficient is large. The
+      approach is illustrated with two examples of microarray analysis. The proposed
+      method successfully detects significant genes closely related to the experimental
+      states, which are verified by the biological information. CONCLUSIONS: The
+      multivariate Bayesian model, compatible with the dependence between mean and
+      variance in the univariate Bayesian model, relaxes the constant coefficient of
+      variation assumption between measurements by adding a covariance structure. This 
+      model improves the identification of differentially expressed genes significantly
+      since the Bayesian model fit well with the microarray data.
+FAU - Zhao, Hongya
+AU  - Zhao H
+AD  - Department of Electronic Engineering, City University of Hong Kong, Kowloon, Hong
+      Kong. hyzhao@ee.cityu.edu.hk
+FAU - Chan, Kwok-Leung
+AU  - Chan KL
+FAU - Cheng, Lee-Ming
+AU  - Cheng LM
+FAU - Yan, Hong
+AU  - Yan H
+LA  - eng
+PT  - Evaluation Studies
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - BMC Bioinformatics
+JT  - BMC bioinformatics
+JID - 100965194
+SB  - IM
+MH  - *Algorithms
+MH  - *Artificial Intelligence
+MH  - Bayes Theorem
+MH  - Computer Simulation
+MH  - Data Interpretation, Statistical
+MH  - Gene Expression Profiling/*methods
+MH  - *Models, Genetic
+MH  - Multivariate Analysis
+MH  - Oligonucleotide Array Sequence Analysis/*methods
+MH  - Pattern Recognition, Automated/*methods
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+PMC - PMC2259410
+OID - NLM: PMC2259410
+EDAT- 2008/03/20 09:00
+MHDA- 2008/04/12 09:00
+CRDT- 2008/03/20 09:00
+AID - 1471-2105-9-S1-S9 [pii]
+AID - 10.1186/1471-2105-9-S1-S9 [doi]
+PST - ppublish
+SO  - BMC Bioinformatics. 2008;9 Suppl 1:S9. doi: 10.1186/1471-2105-9-S1-S9.
+
+PMID- 17509157
+OWN - NLM
+STAT- MEDLINE
+DA  - 20070611
+DCOM- 20070703
+LR  - 20170219
+IS  - 1471-2105 (Electronic)
+IS  - 1471-2105 (Linking)
+VI  - 8
+DP  - 2007 May 18
+TI  - Re-sampling strategy to improve the estimation of number of null hypotheses in
+      FDR control under strong correlation structures.
+PG  - 157
+AB  - BACKGROUND: When conducting multiple hypothesis tests, it is important to control
+      the number of false positives, or the False Discovery Rate (FDR). However, there 
+      is a tradeoff between controlling FDR and maximizing power. Several methods have 
+      been proposed, such as the q-value method, to estimate the proportion of true
+      null hypothesis among the tested hypotheses, and use this estimation in the
+      control of FDR. These methods usually depend on the assumption that the test
+      statistics are independent (or only weakly correlated). However, many types of
+      data, for example microarray data, often contain large scale correlation
+      structures. Our objective was to develop methods to control the FDR while
+      maintaining a greater level of power in highly correlated datasets by improving
+      the estimation of the proportion of null hypotheses. RESULTS: We showed that when
+      strong correlation exists among the data, which is common in microarray datasets,
+      the estimation of the proportion of null hypotheses could be highly variable
+      resulting in a high level of variation in the FDR. Therefore, we developed a
+      re-sampling strategy to reduce the variation by breaking the correlations between
+      gene expression values, then using a conservative strategy of selecting the upper
+      quartile of the re-sampling estimations to obtain a strong control of FDR.
+      CONCLUSION: With simulation studies and perturbations on actual microarray
+      datasets, our method, compared to competing methods such as q-value, generated
+      slightly biased estimates on the proportion of null hypotheses but with lower
+      mean square errors. When selecting genes with controlling the same FDR level, our
+      methods have on average a significantly lower false discovery rate in exchange
+      for a minor reduction in the power.
+FAU - Lu, Xin
+AU  - Lu X
+AD  - Department of Family and Preventive Medicine, UC San Diego, La Jolla, CA 92093,
+      USA. xinlu@ucsd.edu
+FAU - Perkins, David L
+AU  - Perkins DL
+LA  - eng
+GR  - P30 CA023100/CA/NCI NIH HHS/United States
+GR  - R21 AI055056/AI/NIAID NIH HHS/United States
+GR  - CA23100-22/CA/NCI NIH HHS/United States
+GR  - R01 AI055056/AI/NIAID NIH HHS/United States
+PT  - Evaluation Studies
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070518
+PL  - England
+TA  - BMC Bioinformatics
+JT  - BMC bioinformatics
+JID - 100965194
+SB  - IM
+MH  - *Algorithms
+MH  - Data Interpretation, Statistical
+MH  - Databases, Genetic
+MH  - *False Positive Reactions
+MH  - Gene Expression Profiling/*methods
+MH  - Information Storage and Retrieval/methods
+MH  - *Models, Genetic
+MH  - Models, Statistical
+MH  - Oligonucleotide Array Sequence Analysis/*methods
+MH  - Reproducibility of Results
+MH  - *Sample Size
+MH  - Sensitivity and Specificity
+MH  - Statistics as Topic
+PMC - PMC1890303
+OID - NLM: PMC1890303
+EDAT- 2007/05/19 09:00
+MHDA- 2007/07/04 09:00
+CRDT- 2007/05/19 09:00
+PHST- 2006/11/15 [received]
+PHST- 2007/05/18 [accepted]
+AID - 1471-2105-8-157 [pii]
+AID - 10.1186/1471-2105-8-157 [doi]
+PST - epublish
+SO  - BMC Bioinformatics. 2007 May 18;8:157.
+
+PMID- 17342953
+OWN - NLM
+STAT- MEDLINE
+DA  - 20070308
+DCOM- 20070328
+LR  - 20071106
+IS  - 0323-3847 (Print)
+IS  - 0323-3847 (Linking)
+VI  - 49
+IP  - 1
+DP  - 2007 Feb
+TI  - FDR control by the BH procedure for two-sided correlated tests with implications 
+      to gene expression data analysis.
+PG  - 107-26
+AB  - The multiple testing problem attributed to gene expression analysis is
+      challenging not only by its size, but also by possible dependence between the
+      expression levels of different genes resulting from coregulations of the genes.
+      Furthermore, the measurement errors of these expression levels may be dependent
+      as well since they are subjected to several technical factors. Multiple testing
+      of such data faces the challenge of correlated test statistics. In such a case,
+      the control of the False Discovery Rate (FDR) is not straightforward, and thus
+      demands new approaches and solutions that will address multiplicity while
+      accounting for this dependency. This paper investigates the effects of dependency
+      between bormal test statistics on FDR control in two-sided testing, using the
+      linear step-up procedure (BH) of Benjamini and Hochberg (1995). The case of two
+      multiple hypotheses is examined first. A simulation study offers primary insight 
+      into the behavior of the FDR subjected to different levels of correlation and
+      distance between null and alternative means. A theoretical analysis follows in
+      order to obtain explicit upper bounds to the FDR. These results are then extended
+      to more than two multiple tests, thereby offering a better perspective on the
+      effect of the proportion of false null hypotheses, as well as the structure of
+      the test statistics correlation matrix. An example from gene expression data
+      analysis is presented.
+FAU - Reiner-Benaim, Anat
+AU  - Reiner-Benaim A
+AD  - Department of Physics of Complex Systems, Weizmann Institute of Science, Rehovot 
+      76100, Israel. anat.reiner@weizmann.ac.il
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - Germany
+TA  - Biom J
+JT  - Biometrical journal. Biometrische Zeitschrift
+JID - 7708048
+SB  - IM
+MH  - *Data Interpretation, Statistical
+MH  - Gene Expression Profiling/*statistics & numerical data
+MH  - Oligonucleotide Array Sequence Analysis/statistics & numerical data
+EDAT- 2007/03/09 09:00
+MHDA- 2007/03/29 09:00
+CRDT- 2007/03/09 09:00
+PST - ppublish
+SO  - Biom J. 2007 Feb;49(1):107-26.
+
+PMID- 17046978
+OWN - NLM
+STAT- MEDLINE
+DA  - 20061204
+DCOM- 20061228
+LR  - 20091104
+IS  - 1367-4811 (Electronic)
+IS  - 1367-4803 (Linking)
+VI  - 22
+IP  - 24
+DP  - 2006 Dec 15
+TI  - Estimation of false discovery proportion under general dependence.
+PG  - 3025-31
+AB  - MOTIVATION: Wide-scale correlations between genes are commonly observed in gene
+      expression data, due to both biological and technical reasons. These correlations
+      increase the variability of the standard estimate of the false discovery rate
+      (FDR). We highlight the false discovery proportion (FDP, instead of the FDR) as
+      the suitable quantity for assessing differential expression in microarray data,
+      demonstrate the deleterious effects of correlation on FDP estimation and propose 
+      an improved estimation method that accounts for the correlations. METHODS: We
+      analyse the variation pattern of the distribution of test statistics under
+      permutation using the singular value decomposition. The results suggest a latent 
+      FDR model that accounts for the effects of correlation, and is statistically
+      closer to the FDP. We develop a procedure for estimating the latent FDR (ELF)
+      based on a Poisson regression model. RESULTS: For simulated data based on the
+      correlation structure of real datasets, we find that ELF performs substantially
+      better than the standard FDR approach in estimating the FDP. We illustrate the
+      use of ELF in the analysis of breast cancer and lymphoma data. AVAILABILITY: R
+      code to perform ELF is available in http://www.meb.ki.se/~yudpaw.
+FAU - Pawitan, Yudi
+AU  - Pawitan Y
+AD  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet,
+      Stockholm, Sweden. yudi.pawitan@ki.se
+FAU - Calza, Stefano
+AU  - Calza S
+FAU - Ploner, Alexander
+AU  - Ploner A
+LA  - eng
+PT  - Journal Article
+DEP - 20061017
+PL  - England
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+SB  - IM
+MH  - *Algorithms
+MH  - *Data Interpretation, Statistical
+MH  - *False Positive Reactions
+MH  - Gene Expression Profiling/*methods
+MH  - Oligonucleotide Array Sequence Analysis/*methods
+MH  - Protein Interaction Mapping/*methods
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+EDAT- 2006/10/19 09:00
+MHDA- 2006/12/29 09:00
+CRDT- 2006/10/19 09:00
+AID - btl527 [pii]
+AID - 10.1093/bioinformatics/btl527 [doi]
+PST - ppublish
+SO  - Bioinformatics. 2006 Dec 15;22(24):3025-31. Epub 2006 Oct 17.
+
+PMID- 17099941
+OWN - NLM
+STAT- MEDLINE
+DA  - 20061113
+DCOM- 20070207
+LR  - 20151119
+IS  - 0219-7200 (Print)
+IS  - 0219-7200 (Linking)
+VI  - 4
+IP  - 5
+DP  - 2006 Oct
+TI  - Some comments on instability of false discovery rate estimation.
+PG  - 1057-68
+AB  - Some extended false discovery rate (FDR) controlling multiple testing procedures 
+      rely heavily on empirical estimates of the FDR constructed from gene expression
+      data. Such estimates are also used as performance indicators when comparing
+      different methods for microarray data analysis. The present communication shows
+      that the variance of the proposed estimators may be intolerably high, the
+      correlation structure of microarray data being the main cause of their
+      instability.
+FAU - Qiu, Xing
+AU  - Qiu X
+AD  - Department of Biostatistics and Computational Biology, University of Rochester,
+      601 Elmwood Avenue, Box 630, Rochester, New York 14642, USA.
+      xqiu@bst.rochester.edu
+FAU - Yakovlev, Andrei
+AU  - Yakovlev A
+LA  - eng
+GR  - GM075299/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - England
+TA  - J Bioinform Comput Biol
+JT  - Journal of bioinformatics and computational biology
+JID - 101187344
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (Neoplasm Proteins)
+SB  - IM
+MH  - Algorithms
+MH  - Biomarkers, Tumor/*metabolism
+MH  - Data Interpretation, Statistical
+MH  - Diagnosis, Computer-Assisted/*methods
+MH  - *False Positive Reactions
+MH  - Gene Expression Profiling/methods
+MH  - Humans
+MH  - Leukemia/*diagnosis/*metabolism
+MH  - Neoplasm Proteins/*metabolism
+MH  - Oligonucleotide Array Sequence Analysis/*methods
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+EDAT- 2006/11/14 09:00
+MHDA- 2007/02/08 09:00
+CRDT- 2006/11/14 09:00
+PHST- 2006/03/18 [received]
+PHST- 2006/06/10 [revised]
+PHST- 2006/06/29 [accepted]
+AID - S0219720006002338 [pii]
+PST - ppublish
+SO  - J Bioinform Comput Biol. 2006 Oct;4(5):1057-68.
+
+PMID- 15020448
+OWN - NLM
+STAT- MEDLINE
+DA  - 20040315
+DCOM- 20041026
+LR  - 20140609
+IS  - 0016-6731 (Print)
+IS  - 0016-6731 (Linking)
+VI  - 166
+IP  - 1
+DP  - 2004 Jan
+TI  - Controlling the proportion of false positives in multiple dependent tests.
+PG  - 611-9
+AB  - Genome scan mapping experiments involve multiple tests of significance. Thus,
+      controlling the error rate in such experiments is important. Simple extension of 
+      classical concepts results in attempts to control the genomewise error rate
+      (GWER), i.e., the probability of even a single false positive among all tests.
+      This results in very stringent comparisonwise error rates (CWER) and,
+      consequently, low experimental power. We here present an approach based on
+      controlling the proportion of false positives (PFP) among all positive test
+      results. The CWER needed to attain a desired PFP level does not depend on the
+      correlation among the tests or on the number of tests as in other approaches. To 
+      estimate the PFP it is necessary to estimate the proportion of true null
+      hypotheses. Here we show how this can be estimated directly from experimental
+      results. The PFP approach is similar to the false discovery rate (FDR) and
+      positive false discovery rate (pFDR) approaches. For a fixed CWER, we have
+      estimated PFP, FDR, pFDR, and GWER through simulation under a variety of models
+      to illustrate practical and philosophical similarities and differences among the 
+      methods.
+FAU - Fernando, R L
+AU  - Fernando RL
+AD  - Department of Animal Science, Iowa State University, Ames, Iowa 50011, USA.
+      rohan@istate.edu
+FAU - Nettleton, D
+AU  - Nettleton D
+FAU - Southey, B R
+AU  - Southey BR
+FAU - Dekkers, J C M
+AU  - Dekkers JC
+FAU - Rothschild, M F
+AU  - Rothschild MF
+FAU - Soller, M
+AU  - Soller M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - Genetics
+JT  - Genetics
+JID - 0374636
+RN  - 0 (Genetic Markers)
+SB  - IM
+MH  - Chromosome Mapping/methods/statistics & numerical data
+MH  - Crosses, Genetic
+MH  - False Positive Reactions
+MH  - Genetic Linkage
+MH  - Genetic Markers
+MH  - *Genetic Techniques/statistics & numerical data
+MH  - Genomics/methods/statistics & numerical data
+MH  - Models, Genetic
+MH  - Quantitative Trait Loci
+PMC - PMC1470704
+OID - NLM: PMC1470704
+EDAT- 2004/03/17 05:00
+MHDA- 2004/10/27 09:00
+CRDT- 2004/03/17 05:00
+AID - 166/1/611 [pii]
+PST - ppublish
+SO  - Genetics. 2004 Jan;166(1):611-9.
+
+PMID- 12584122
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030213
+DCOM- 20030606
+LR  - 20061115
+IS  - 1367-4803 (Print)
+IS  - 1367-4803 (Linking)
+VI  - 19
+IP  - 3
+DP  - 2003 Feb 12
+TI  - Identifying differentially expressed genes using false discovery rate controlling
+      procedures.
+PG  - 368-75
+AB  - MOTIVATION: DNA microarrays have recently been used for the purpose of monitoring
+      expression levels of thousands of genes simultaneously and identifying those
+      genes that are differentially expressed. The probability that a false
+      identification (type I error) is committed can increase sharply when the number
+      of tested genes gets large. Correlation between the test statistics attributed to
+      gene co-regulation and dependency in the measurement errors of the gene
+      expression levels further complicates the problem. In this paper we address this 
+      very large multiplicity problem by adopting the false discovery rate (FDR)
+      controlling approach. In order to address the dependency problem, we present
+      three resampling-based FDR controlling procedures, that account for the test
+      statistics distribution, and compare their performance to that of the naive
+      application of the linear step-up procedure in Benjamini and Hochberg (1995). The
+      procedures are studied using simulated microarray data, and their performance is 
+      examined relative to their ease of implementation. RESULTS: Comparative
+      simulation analysis shows that all four FDR controlling procedures control the
+      FDR at the desired level, and retain substantially more power then the
+      family-wise error rate controlling procedures. In terms of power, using
+      resampling of the marginal distribution of each test statistics substantially
+      improves the performance over the naive one. The highest power is achieved, at
+      the expense of a more sophisticated algorithm, by the resampling-based procedures
+      that resample the joint distribution of the test statistics and estimate the
+      level of FDR control. AVAILABILITY: An R program that adjusts p-values using FDR 
+      controlling procedures is freely available over the Internet at
+      www.math.tau.ac.il/~ybenja.
+FAU - Reiner, Anat
+AU  - Reiner A
+AD  - Department of Statistics and Operations Research, The Sackler Faculty of Exact
+      Sciences, Tel-Aviv University, Tel-Aviv 69978, Israel. anatr@post.tau.ac.il
+FAU - Yekutieli, Daniel
+AU  - Yekutieli D
+FAU - Benjamini, Yoav
+AU  - Benjamini Y
+LA  - eng
+PT  - Comparative Study
+PT  - Evaluation Studies
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - England
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+RN  - 0 (Cholesterol, HDL)
+RN  - 0 (DNA, Complementary)
+SB  - IM
+MH  - *Algorithms
+MH  - Animals
+MH  - Cholesterol, HDL/genetics/metabolism
+MH  - Computer Simulation
+MH  - DNA, Complementary/genetics
+MH  - Gene Expression Profiling/*methods
+MH  - *Gene Expression Regulation
+MH  - Liver/metabolism
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - *Models, Genetic
+MH  - Models, Statistical
+MH  - Oligonucleotide Array Sequence Analysis/*methods
+MH  - Reproducibility of Results
+MH  - Sample Size
+EDAT- 2003/02/14 04:00
+MHDA- 2003/06/07 05:00
+CRDT- 2003/02/14 04:00
+PST - ppublish
+SO  - Bioinformatics. 2003 Feb 12;19(3):368-75.

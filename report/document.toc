@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Lynch, Gavin, et al. "The control of the false discovery rate in fixed sequence multiple testing." arXiv preprint arXiv:1611.03146 (2016).}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}A conventional fixed sequence method that stops testing once an acceptance occurs}{2}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Under arbitrary dependence}{2}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Under negative dependence}{2}{subsubsection.1.1.2}
+\contentsline {subsection}{\numberline {1.2}Fixed Sequence Procedures that Allow More Acceptances}{3}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Under arbitrary dependence}{3}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Under the independence assumption}{3}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Data Driven Ordering}{4}{subsection.1.3}
+\contentsline {section}{\numberline {2}G'Sell, Max Grazier, et al. "Sequential selection procedures and false discovery rate control." Journal of the royal statistical society: series B (statistical methodology) 78.2 (2016): 423-444.}{4}{section.2}
+\contentsline {section}{\numberline {A}Positive regression dependence(PRDS)}{5}{appendix.A}
+\contentsline {section}{\numberline {B}Negative Association}{5}{appendix.B}
